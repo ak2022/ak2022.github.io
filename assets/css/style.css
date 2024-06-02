@@ -846,11 +846,11 @@ section {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #e43c5c;
+  border: 1px solid #03045e;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #e43c5c;
+  background-color: #03045e;
 }
 
 .portfolio-details .portfolio-info {
