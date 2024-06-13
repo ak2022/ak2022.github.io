@@ -1283,6 +1283,28 @@ section {
   padding: 10px 12px;
 }
 
+.contact .php-email-form .rsvp-yn {
+  height: 44px;
+  border-radius: 0;
+  box-shadow: none;
+  font-size: 14px;
+}
+
+.contact .php-email-form .rsvp-label {
+  height: 44px;
+
+  display: block;
+  width: 100%;
+  padding: .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--bs-secondary-color);
+  appearance: none;
+  background-color: var(--bs-body-bg);
+  background-clip: padding-box;
+}
+
 .contact .php-email-form button[type=submit] {
   background: #3d3b5f;
   border: 0;
